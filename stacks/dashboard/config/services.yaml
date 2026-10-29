@@ -1,0 +1,29 @@
+- Infrastructure:
+    - Proxmox:
+        href: https://pve.{{HOMEPAGE_VAR_DOMAIN}}
+        icon: proxmox.png
+        description: Hypervisor
+    - Nginx Proxy Manager:
+        href: https://npm.{{HOMEPAGE_VAR_DOMAIN}}
+        icon: nginx-proxy-manager.png
+        server: local
+        container: npm
+
+- Monitoring:
+    - Uptime Kuma:
+        href: https://status.{{HOMEPAGE_VAR_DOMAIN}}
+        icon: uptime-kuma.png
+        server: local
+        container: uptime-kuma
+    - Grafana:
+        href: https://grafana.{{HOMEPAGE_VAR_DOMAIN}}
+        icon: grafana.png
+        server: local
+        container: grafana
+
+- AI:
+    - Open WebUI:
+        href: https://ai.{{HOMEPAGE_VAR_DOMAIN}}
+        icon: open-webui.png
+        server: local
+        container: open-webui
