@@ -9,3 +9,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-04** — NPM: enabled HTTP/2 and HSTS on all proxy hosts
 - **2026-11-06** — Cloudflare tunnel: rotated token and restarted cloudflared
 - **2026-11-07** — Bumped Uptime Kuma check interval to 60s for external services
+- **2026-11-08** — Homepage: added widgets for Proxmox and Uptime Kuma
