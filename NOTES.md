@@ -12,3 +12,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-08** — Homepage: added widgets for Proxmox and Uptime Kuma
 - **2026-11-09** — Prometheus retention at 30d is ~2 GB with current scrape targets
 - **2026-11-09** — Grafana: imported Node Exporter Full dashboard (ID 1860)
+- **2026-11-13** — Grafana: imported Node Exporter Full dashboard (ID 1860)
