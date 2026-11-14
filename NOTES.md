@@ -14,3 +14,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-09** — Grafana: imported Node Exporter Full dashboard (ID 1860)
 - **2026-11-13** — Grafana: imported Node Exporter Full dashboard (ID 1860)
 - **2026-11-14** — PBS: verified last week's backup by restoring to VM 999
+- **2026-11-14** — Tailscale: moved admin UIs behind tag:admin in ACLs
