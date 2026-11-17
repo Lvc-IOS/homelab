@@ -17,3 +17,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-14** — Tailscale: moved admin UIs behind tag:admin in ACLs
 - **2026-11-15** — Docker: `docker system prune -af --volumes` freed 14 GB of old images
 - **2026-11-15** — Cloudflare tunnel: rotated token and restarted cloudflared
+- **2026-11-17** — NPM: enabled HTTP/2 and HSTS on all proxy hosts
