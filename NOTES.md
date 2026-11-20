@@ -20,3 +20,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-17** — NPM: enabled HTTP/2 and HSTS on all proxy hosts
 - **2026-11-18** — PBS: verified last week's backup by restoring to VM 999
 - **2026-11-19** — Cloudflare tunnel: rotated token and restarted cloudflared
+- **2026-11-20** — Prometheus retention at 30d is ~2 GB with current scrape targets
